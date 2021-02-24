@@ -7,7 +7,7 @@
 
 # Site settings
 title: Bag End
-brief-intro: 算法工程师
+brief-intro: 
 baseurl: "/bag_end" # the subpath of your site, e.g. /blog
 url: "https://github.com/minghui90" # the base hostname & protocol for your site
 
